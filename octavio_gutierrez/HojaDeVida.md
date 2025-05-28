@@ -1,4 +1,4 @@
-#  Hoja de Vida - Octavio Gutiérrez Villamil
+ #  Hoja de Vida - Octavio Gutiérrez Villamil
 
 ![Mi foto](foto.png)
 
